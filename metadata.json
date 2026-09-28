@@ -1,0 +1,6 @@
+{
+  "name": "DigiBazar Modern Marketplace",
+  "description": "Multi-sided commerce platform uniting everyday shoppers, artisan sellers, and enterprise operators with automated RBAC, consolidated multi-vendor checkout, seller fulfillment hub, and real-time governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
